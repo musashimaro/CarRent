@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "RentalController",
+    "Method": "RegisterPickup",
+    "RelativePath": "Rental/pickup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CarRent.Web.Request.PickupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentalController",
+    "Method": "RegisterReturn",
+    "RelativePath": "Rental/return",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CarRent.Web.Request.ReturnRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

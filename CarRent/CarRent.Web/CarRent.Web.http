@@ -1,0 +1,26 @@
+@CarRent.Web_HostAddress = http://localhost:43488
+
+### Car pickup
+POST {{CarRent.Web_HostAddress}}/Rental/pickup
+Content-Type: application/json
+
+{
+  "bookingNumber": "B001",
+  "registrationNumber": "ABC123",
+  "customerSSN": "1234567890",
+  "category": 0,
+  "pickupDateTime": "2024-06-01T10:00:00",
+  "pickupKm": 10000
+}
+
+### Car return
+POST {{CarRent.Web_HostAddress}}/Rental/return
+Content-Type: application/json
+
+{
+  "bookingNumber": "B001",
+  "returnDateTime": "2024-06-03T10:00:00",
+  "returnKm": 10200,
+  "baseDayRental": 500,
+  "baseKmPrice": 2
+}

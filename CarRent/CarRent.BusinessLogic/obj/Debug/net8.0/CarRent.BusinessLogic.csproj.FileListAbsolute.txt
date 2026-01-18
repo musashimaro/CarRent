@@ -1,0 +1,11 @@
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\bin\Debug\net8.0\CarRent.BusinessLogic.deps.json
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\bin\Debug\net8.0\CarRent.BusinessLogic.dll
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\bin\Debug\net8.0\CarRent.BusinessLogic.pdb
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\CarRent.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\CarRent.BusinessLogic.AssemblyInfoInputs.cache
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\CarRent.BusinessLogic.AssemblyInfo.cs
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\CarRent.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\CarRent.BusinessLogic.dll
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\refint\CarRent.BusinessLogic.dll
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\CarRent.BusinessLogic.pdb
+D:\VisualStudio\CarRent\CarRent\CarRent.BusinessLogic\obj\Debug\net8.0\ref\CarRent.BusinessLogic.dll
