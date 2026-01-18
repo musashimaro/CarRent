@@ -1,0 +1,8 @@
+Assumptions:
+
+booking number unique
+pickup and return date containing time (time for registration purpose only)
+pickup and return date ignoring time and calculated using date diff only
+can have new car category
+
+based on req, small car don't need to calculate km
