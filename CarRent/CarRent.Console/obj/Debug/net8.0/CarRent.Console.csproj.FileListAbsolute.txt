@@ -10,6 +10,7 @@ D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent.Console
 D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent.Console.AssemblyInfoInputs.cache
 D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent.Console.AssemblyInfo.cs
 D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent.Console.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent.Console.sourcelink.json
 D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent..D8B79A4E.Up2Date
 D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\CarRent.Console.dll
 D:\VisualStudio\CarRent\CarRent\CarRent.Console\obj\Debug\net8.0\refint\CarRent.Console.dll

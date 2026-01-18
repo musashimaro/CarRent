@@ -94,6 +94,7 @@ D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent.Test.Gener
 D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent.Test.AssemblyInfoInputs.cache
 D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent.Test.AssemblyInfo.cs
 D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent.Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent.Test.sourcelink.json
 D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent..AA600570.Up2Date
 D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\CarRent.Test.dll
 D:\VisualStudio\CarRent\CarRent\CarRent.Test\obj\Debug\net8.0\refint\CarRent.Test.dll

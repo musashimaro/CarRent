@@ -13,5 +13,9 @@ namespace CarRent.BusinessLogic.Models
 		public DateTime? ReturnDateTime { get; set; }
 		public int? ReturnKm { get; set; }
 		public decimal? Price { get; set; }
+
+		public int MaxReturnDays { get; set; }
+
+
 	}
 }

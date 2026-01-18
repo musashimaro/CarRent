@@ -18,6 +18,7 @@ D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\CarRent.Web.Assembl
 D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\CarRent.Web.csproj.CoreCompileInputs.cache
 D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\CarRent.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\CarRent.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\CarRent.Web.sourcelink.json
 D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\staticwebassets.build.json
 D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\staticwebassets.development.json
 D:\VisualStudio\CarRent\CarRent\CarRent.Web\obj\Debug\net8.0\staticwebassets\msbuild.CarRent.Web.Microsoft.AspNetCore.StaticWebAssets.props
